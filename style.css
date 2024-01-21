@@ -1,0 +1,144 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+h1{
+    font-size: 60px;
+    
+}
+
+.orange-color{
+    color: orange;
+}
+.mission-container{
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.width {
+    width: 50%;
+    padding-left: 50px;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+.width p {
+    padding-bottom: 10px;
+
+
+}
+
+.width img{
+    width: 65%;
+    padding-left: 40px;
+    margin-top: -100px;
+    
+}
+.button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    background-image: linear-gradient(rgb(216, 44, 25),rgb(228, 91, 67));
+    border-radius: 7px;
+    
+    
+}
+.verticalLine {
+        border-left: thick solid rgb(242, 85, 58);  
+        
+
+}
+.verticalLine h1{
+    padding-left: 15px;
+    
+   
+}
+h2{
+    font-weight: 700;
+    font-size: 50px;
+    color: rgb(11, 11, 38);
+}
+.mission-goals{
+    display: flex;
+    width: 95%;
+    margin-left: 83px;    
+}
+.mission-goals img{
+    width: 30%;
+}
+.mission-width{
+    width: 25%;
+    box-shadow: none;
+    background-color: #edf5f6;
+    border-radius: 20px;
+    margin-left: 30px;
+    padding: 20px;
+}
+.mission-vision{
+     width: 25%;
+     box-shadow: none;
+     background-color: #ffeeee;
+     border-radius: 20px;
+     margin-left: 30px;
+     padding: 20px;
+}
+.mission-aim{
+    width: 25%;
+    box-shadow: none;
+    background-color: #fff4d6;
+    border-radius: 20px;
+    margin-left: 30px;
+    padding: 20px;
+}
+h3{
+    font-weight: 700;
+    font-size: 30px;
+}
+#mission-align{
+    text-align: center;
+}
+
+.develop{
+      
+    margin-left: 50px;
+}
+.develop p{
+    padding-right: 80px;
+}
+.develop img{
+    width: 75%;
+    
+    margin-left: 110px;
+}
+.mission-develop {
+    display: flex;
+    margin-top: 125px;
+    margin-left: 70px;
+    margin-bottom: 70px;
+    
+}
+.develop-global {
+
+    margin-right: 50px;
+}
+
+.develop-global p {
+    padding-right: 70px;
+}
+
+.develop-global img {
+    width: 80%;
+    margin-right: 120px;
+}
+.red{
+    color: #ff5959;
+}
+footer{
+    text-align: center;
+    background-color: #0b0d17;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    margin: 0px;
+    color: white;
+    width: 99%;
+    position: absolute;   
+}
